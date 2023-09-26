@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=MwlareBuilder Appimage Test
+GenericName=MwlareBuilder Appimage Test
+Comment=Simple AppImage test for code frozen with MwlareBuilder.
+Exec=false
+Icon=apptest
+Type=Application
+StartupNotify=false
+Terminal=false
+Categories=Office;
